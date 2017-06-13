@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Treehouse.FitnessFrog",
-    "\\Treehouse.FitnessFrog\\Views",
-    "\\Treehouse.FitnessFrog\\Views\\Entries",
-    "\\Treehouse.FitnessFrog\\Views\\Shared"
+    ""
   ],
-  "SelectedNode": "\\Treehouse.FitnessFrog\\Views\\Entries\\Add.cshtml",
+  "SelectedNode": "\\Treehouse.FitnessFrog.sln",
   "PreviewInSolutionExplorer": false
 }
